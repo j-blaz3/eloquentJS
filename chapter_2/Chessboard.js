@@ -19,5 +19,4 @@ for (let i = 0; i < size; i++) {
 }
 
 console.log(str);
-console.log(`str length: ${str.length}
-size: ${size}x${size}`);
+console.log(`size: ${size}x${size}`);
